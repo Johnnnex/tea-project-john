@@ -1,0 +1,26 @@
+{
+  "name": "tea-project-john",
+  "version": "1.0.0",
+  "description": "Package for tea testnet",
+  "main": "index.js",
+  "scripts": {
+    "test": "test\u001b[D\u001b[D\u001b[D\u001b[Dnpm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johnnnex/tea-project-john.git"
+  },
+  "keywords": [
+    "Tea",
+    "Johnex",
+    "Testnet",
+    "package",
+    "tea.xyz"
+  ],
+  "author": "John o.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Johnnnex/tea-project-john/issues"
+  },
+  "homepage": "https://github.com/Johnnnex/tea-project-john#readme"
+}
